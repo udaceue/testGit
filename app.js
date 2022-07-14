@@ -214,6 +214,7 @@ let Person2 = new Person("Annie", 12);
 console.log(Person1.getName())
 console.log(Person1.getAge())
 
+console.log("New Changes")
 
 
 
